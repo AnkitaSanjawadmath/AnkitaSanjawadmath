@@ -25,7 +25,7 @@ An end-to-end Machine Learning regression pipeline designed to forecast customer
 * Built a **Supervised ML Regression** model utilizing customer demographic and financial data to accurately predict car budgets.
 * Deployed the model via an interactive **Streamlit dashboard** using serialized `pickle` files for real-time predictions.
 
-#### 👁️ [Contact Lenses Prediction Model](https://github.com) *(Update with your exact repo link)*
+#### 👁️ [Contact Lenses Prediction Model](https://github.com) 
 A clinical decision support tool optimized to map patient eye health profiles to appropriate vision prescriptions.
 * Developed a **Supervised Decision Tree Classifier** using the classic UCI Lenses dataset to achieve consistent classification accuracy.
 * Modernized the dataset with optometric rules handling modern alternatives like soft toric, scleral, and multifocal lenses, served via a **Streamlit UI**.
